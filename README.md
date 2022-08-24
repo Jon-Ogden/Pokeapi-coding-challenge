@@ -1,5 +1,5 @@
 # HEY OIT!
-This one little note is from me - Jon Ogden - but everything else in this readme is from react as part of the default react-app so if you are unfamiliar with react that info can help you get the app up and running to see my work. Speaking of my work, the app isnt pretty but 
+This one little note is from me - Jon Ogden - but everything else in this readme is from react as part of the default react-app so if you are unfamiliar with react that info can help you get the app up and running to see my work. Speaking of my work, the app isnt pretty but it works! Enjoy!
 
 
 # Getting Started with Create React App
